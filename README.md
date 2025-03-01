@@ -1,1 +1,1 @@
-Hi
+This project, I learn how to use Riot API to extract data about my TFT (game) stats. I first start with simple data collection after running my script, then I proceed with processing the data to choose my variable which in this project I want to figure out my placements distributions. Finally I did a simple Visualization to showcase said distribution.
